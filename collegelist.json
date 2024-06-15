@@ -1,0 +1,19 @@
+{
+ "data" : [
+    {"name": "Indian Institute of Technology Bombay", "collegeId": "IITB"},
+    {"name": "Indian Institute of Technology Delhi", "collegeId": "IITD"},
+    {"name": "Indian Institute of Technology Madras", "collegeId": "IITM"},
+    {"name": "Indian Institute of Technology Kanpur", "collegeId": "IITK"},
+    {"name": "Indian Institute of Technology Kharagpur", "collegeId": "IITKGP"},
+    {"name": "Indian Institute of Technology Roorkee", "collegeId": "IITR"},
+    {"name": "Indian Institute of Technology Guwahati", "collegeId": "IITG"},
+    {"name": "Indian Institute of Technology Hyderabad", "collegeId": "IITH"},
+    {"name": "Indian Institute of Technology Indore", "collegeId": "IITI"},
+    {"name": "Indian Institute of Science Bangalore", "collegeId": "IISc"},
+    {"name": "Delhi Technological University", "collegeId": "DTU"},
+    {"name": "National Institute of Technology Tiruchirappalli", "collegeId": "NITT"},
+    {"name": "National Institute of Technology Karnataka, Surathkal", "collegeId": "NITK"},
+    {"name": "National Institute of Technology Patna", "collegeId": "NITP"},
+    {"name": "Birla Institute of Technology and Science Pilani", "collegeId": "BITS"}
+]
+}

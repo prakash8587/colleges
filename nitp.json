@@ -1,0 +1,17 @@
+{
+    "collegeName": "National Institute of Technology Patna",
+    "students": [
+      {"studentId": 1, "name": "Akhil Nair", "age": 22, "major": "Mechanical Engineering", "gpa": 3.8},
+      {"studentId": 2, "name": "Anjali Singh", "age": 21, "major": "Electrical Engineering", "gpa": 3.9},
+      {"studentId": 3, "name": "Rahul Sharma", "age": 23, "major": "Computer Science", "gpa": 3.7},
+      {"studentId": 4, "name": "Kavya Reddy", "age": 20, "major": "Civil Engineering", "gpa": 3.6},
+      {"studentId": 5, "name": "Vikram Iyer", "age": 22, "major": "Biotechnology", "gpa": 3.5},
+      {"studentId": 6, "name": "Ananya Kapoor", "age": 21, "major": "Mathematics", "gpa": 3.9},
+      {"studentId": 7, "name": "Pranav Rajput", "age": 24, "major": "Physics", "gpa": 3.8},
+      {"studentId": 8, "name": "Deepika Mishra", "age": 20, "major": "Chemical Engineering", "gpa": 3.7},
+      {"studentId": 9, "name": "Ravi Kumar", "age": 22, "major": "Biology", "gpa": 3.6},
+      {"studentId": 10, "name": "Anjali Gupta", "age": 21, "major": "Economics", "gpa": 3.9}
+    ]
+  }
+
+

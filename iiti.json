@@ -1,0 +1,15 @@
+{
+    "collegeName": "Indian Institute of Technology Indore",
+    "students": [
+      {"studentId": 1, "name": "Arjun Suresh", "age": 22, "major": "Computer Science", "gpa": 3.8},
+      {"studentId": 2, "name": "Ananya Menon", "age": 21, "major": "Electrical Engineering", "gpa": 3.9},
+      {"studentId": 3, "name": "Rahul Iyer", "age": 23, "major": "Mechanical Engineering", "gpa": 3.7},
+      {"studentId": 4, "name": "Deepika Reddy", "age": 20, "major": "Chemical Engineering", "gpa": 3.6},
+      {"studentId": 5, "name": "Karthik Verma", "age": 22, "major": "Civil Engineering", "gpa": 3.5},
+      {"studentId": 6, "name": "Neha Kapoor", "age": 21, "major": "Biotechnology", "gpa": 3.9},
+      {"studentId": 7, "name": "Vivek Rajput", "age": 24, "major": "Mathematics", "gpa": 3.8},
+      {"studentId": 8, "name": "Aaradhya Mishra", "age": 20, "major": "Physics", "gpa": 3.7},
+      {"studentId": 9, "name": "Aryan Kumar", "age": 22, "major": "Biology", "gpa": 3.6},
+      {"studentId": 10, "name": "Ishika Gupta", "age": 21, "major": "Economics", "gpa": 3.9}
+    ]
+  }

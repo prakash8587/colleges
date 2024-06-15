@@ -1,0 +1,15 @@
+{
+    "collegeName": "National Institute of Technology Tiruchirappalli",
+    "students": [
+      {"studentId": 1, "name": "Sathish Kumar", "age": 22, "major": "Computer Science", "gpa": 3.8},
+      {"studentId": 2, "name": "Divya Suresh", "age": 21, "major": "Electrical Engineering", "gpa": 3.9},
+      {"studentId": 3, "name": "Rahul Menon", "age": 23, "major": "Mechanical Engineering", "gpa": 3.7},
+      {"studentId": 4, "name": "Ananya Rao", "age": 20, "major": "Chemical Engineering", "gpa": 3.6},
+      {"studentId": 5, "name": "Karthik Iyer", "age": 22, "major": "Civil Engineering", "gpa": 3.5},
+      {"studentId": 6, "name": "Nithya Venkat", "age": 21, "major": "Biotechnology", "gpa": 3.9},
+      {"studentId": 7, "name": "Vivek Raghavan", "age": 24, "major": "Mathematics", "gpa": 3.8},
+      {"studentId": 8, "name": "Priya Sharma", "age": 20, "major": "Physics", "gpa": 3.7},
+      {"studentId": 9, "name": "Aditya Kumar", "age": 22, "major": "Biology", "gpa": 3.6},
+      {"studentId": 10, "name": "Shalini Gupta", "age": 21, "major": "Economics", "gpa": 3.9}
+    ]
+  }

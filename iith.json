@@ -1,0 +1,15 @@
+{
+    "collegeName": "Indian Institute of Technology Hyderabad",
+    "students": [
+      {"studentId": 1, "name": "Rahul Kumar", "age": 22, "major": "Political Science", "gpa": 3.8},
+      {"studentId": 2, "name": "Ananya Singh", "age": 21, "major": "History", "gpa": 3.9},
+      {"studentId": 3, "name": "Arun Sharma", "age": 23, "major": "Economics", "gpa": 3.7},
+      {"studentId": 4, "name": "Priya Gupta", "age": 20, "major": "Sociology", "gpa": 3.6},
+      {"studentId": 5, "name": "Vikas Verma", "age": 22, "major": "International Relations", "gpa": 3.5},
+      {"studentId": 6, "name": "Anjali Reddy", "age": 21, "major": "Anthropology", "gpa": 3.9},
+      {"studentId": 7, "name": "Prakash Kumar", "age": 24, "major": "Geography", "gpa": 3.8},
+      {"studentId": 8, "name": "Deepika Iyer", "age": 20, "major": "Philosophy", "gpa": 3.7},
+      {"studentId": 9, "name": "Ravi Singh", "age": 22, "major": "Psychology", "gpa": 3.6},
+      {"studentId": 10, "name": "Ananya Sharma", "age": 21, "major": "Public Administration", "gpa": 3.9}
+    ]
+  }

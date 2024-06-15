@@ -1,0 +1,15 @@
+{
+    "collegeName": "Indian Institute of Technology Madras",
+    "students": [
+      {"studentId": 1, "name": "Rachel Green", "age": 21, "major": "Computer Science", "gpa": 3.8},
+      {"studentId": 2, "name": "Monica Geller", "age": 22, "major": "Electrical Engineering", "gpa": 3.9},
+      {"studentId": 3, "name": "Phoebe Buffay", "age": 23, "major": "Mechanical Engineering", "gpa": 3.7},
+      {"studentId": 4, "name": "Ross Geller", "age": 20, "major": "Chemical Engineering", "gpa": 3.6},
+      {"studentId": 5, "name": "Chandler Bing", "age": 22, "major": "Civil Engineering", "gpa": 3.5},
+      {"studentId": 6, "name": "Joey Tribbiani", "age": 21, "major": "Biotechnology", "gpa": 3.9},
+      {"studentId": 7, "name": "Gunther", "age": 24, "major": "Mathematics", "gpa": 3.8},
+      {"studentId": 8, "name": "Janice Litman", "age": 20, "major": "Physics", "gpa": 3.7},
+      {"studentId": 9, "name": "Mike Hannigan", "age": 22, "major": "Biology", "gpa": 3.6},
+      {"studentId": 10, "name": "Richard Burke", "age": 21, "major": "Economics", "gpa": 3.9}
+    ]
+  }

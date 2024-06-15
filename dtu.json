@@ -1,0 +1,16 @@
+,
+  {
+    "collegeName": "Delhi Technological University",
+    "students": [
+      {"studentId": 1, "name": "Akash Singh", "age": 22, "major": "Computer Science", "gpa": 3.8},
+      {"studentId": 2, "name": "Kavya Sharma", "age": 21, "major": "Electrical Engineering", "gpa": 3.9},
+      {"studentId": 3, "name": "Rahul Kapoor", "age": 23, "major": "Mechanical Engineering", "gpa": 3.7},
+      {"studentId": 4, "name": "Anjali Reddy", "age": 20, "major": "Chemical Engineering", "gpa": 3.6},
+      {"studentId": 5, "name": "Vikram Iyer", "age": 22, "major": "Civil Engineering", "gpa": 3.5},
+      {"studentId": 6, "name": "Ananya Kumar", "age": 21, "major": "Biotechnology", "gpa": 3.9},
+      {"studentId": 7, "name": "Pranav Verma", "age": 24, "major": "Mathematics", "gpa": 3.8},
+      {"studentId": 8, "name": "Deepika Mishra", "age": 20, "major": "Physics", "gpa": 3.7},
+      {"studentId": 9, "name": "Ravi Gupta", "age": 22, "major": "Biology", "gpa": 3.6},
+      {"studentId": 10, "name": "Anjali Singh", "age": 21, "major": "Economics", "gpa": 3.9}
+    ]
+  }
